@@ -2,6 +2,7 @@
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 Introdução
+
 Durante o desenvolvimento deste lab, aprofundei meus conhecimentos sobre computação em nuvem, explorando conceitos fundamentais como modelos de implantação, benefícios e terminologias importantes.
 
 🏗️ Conceitos Abordados
